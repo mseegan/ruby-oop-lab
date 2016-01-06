@@ -1,7 +1,5 @@
 class Car
 
-class Car
-
 	attr_accessor :speed
  	
 	def initialize
@@ -11,7 +9,5 @@ class Car
 	def accelerate (speed)
 		@speed = speed
 	end
-
-end
 
 end
